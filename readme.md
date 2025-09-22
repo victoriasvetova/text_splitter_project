@@ -109,7 +109,7 @@ text_splitter_project/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/your_username/text_splitter_project.git
+git clone https://github.com/victoriasvetova/text_splitter_project.git
 cd text_splitter_project
 ````
 
